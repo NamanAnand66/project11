@@ -24,4 +24,4 @@ AI Creative Studio is an AI-powered platform that allows users to generate image
 ## 🎯 How to Run
 
 - Follow the Link:-
- namananand66.github.io/project11/
+[AI Creative Studio](https://namananand66.github.io/project11/)  
